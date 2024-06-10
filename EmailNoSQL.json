@@ -1,0 +1,22 @@
+[
+	{
+		"Nome_funcionario" : "Ada Byron",
+		"Email" : "abyron@tech.com"
+	},
+	{
+		"Nome_funcionario" : "Ada Byron",
+		"Email" : "ada@mail.com"
+	},
+	{
+		"Nome_funcionario" : "Gerundino",
+		"Email" : "gerundino@gmail.com"
+	},
+	{
+		"Nome_funcionario" : "João Grilo",
+		"Email" : "grilo@mail.com"
+	},
+	{
+		"Nome_funcionario" : "João Grilo",
+		"Email" : "joaog@mk.com"
+	}
+]

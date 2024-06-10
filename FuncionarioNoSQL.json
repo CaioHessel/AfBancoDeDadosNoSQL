@@ -1,0 +1,26 @@
+[
+	{
+		"Nome_funcionario" : "Ada Byron",
+		"Logradouro" : "Rua Lovelace, 67",
+		"Cidade" : "London",
+		"Cargo" : "Developer"
+	},
+	{
+		"Nome_funcionario" : "Chicó",
+		"Logradouro" : "Rua Eurico, 50, Apt 28 Bloco C",
+		"Cidade" : "João Pessoa",
+		"Cargo" : "Developer"
+	},
+	{
+		"Nome_funcionario" : "Gerundino",
+		"Logradouro" : "Rua Substantivo, 78",
+		"Cidade" : "Mesóclise",
+		"Cargo" : "Linguista"
+	},
+	{
+		"Nome_funcionario" : "João Grilo",
+		"Logradouro" : "Rua Suassuna, 30",
+		"Cidade" : "João Pessoa",
+		"Cargo" : "Contador"
+	}
+]

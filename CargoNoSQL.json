@@ -1,0 +1,17 @@
+[
+	{
+		"Nome_cargo" : "Contador",
+		"Jornada" : 40,
+		"Salario" : 3000.00
+	},
+	{
+		"Nome_cargo" : "Developer",
+		"Jornada" : 20,
+		"Salario" : 15000.00
+	},
+	{
+		"Nome_cargo" : "Linguista",
+		"Jornada" : 44,
+		"Salario" : 8000.00
+	}
+]
